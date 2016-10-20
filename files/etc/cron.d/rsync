@@ -1,0 +1,2 @@
+# Run backup script
+*/5 * * * * root /usr/local/bin/rsync.sh > /dev/null
